@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# Datasets
+datasets
+datasets/
+
+prepare_data.py
+prepare_data.ipynb
+prepare_data.py
+old
+old/
+make_plots.ipynb
+run_xenium.ipynb
+
 # Distribution / packaging
 .Python
 build/
