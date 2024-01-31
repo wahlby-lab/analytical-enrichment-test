@@ -1,4 +1,4 @@
-# analytical-neighborhood-enrichment-test
+# Analytical neighborhood enrichment test
 A fast implementation of the neighborhood enrichment test [1]. See [example](example.ipynb) for usage.
 
 # References
